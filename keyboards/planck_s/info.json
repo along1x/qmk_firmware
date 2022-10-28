@@ -1,0 +1,10 @@
+{
+    "manufacturer": "along1x",
+    "keyboard_name": "planck_s",
+    "maintainer": "along1x",
+    "bootloader": "usbasploader",
+    "processor": "atmega328p",
+    "width": 12,
+    "height": 5,
+    "layouts": {}
+}
